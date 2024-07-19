@@ -1,0 +1,29 @@
+{
+  "name": "weather-package-cli",
+  "version": "1.0.0",
+  "description": "CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "engines": {
+    "node": ">14"
+  },
+  "scripts": {
+    "start": "node.js index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "rombeso",
+  "license": "ISC",
+  "homepage": "https://google.com",
+  "repository": {
+    "type": "git",
+    "url": "https://google.com"
+  },
+  "bugs": {
+    "url": "https://google.com",
+    "email": "larionovra@gmail.com"
+  }
+}
